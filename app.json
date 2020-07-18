@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "ColorCatalog",
-    "slug": "ColorCatalog",
+    "name": "ColorInfluences",
+    "description": "Explore the color that has influenced product development and purchasing decisions in multiple industries, including fashion, home furnishings, and industrial design, as well as product, packaging, and graphic design",
+    "slug": "ColorInfluences",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +14,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
